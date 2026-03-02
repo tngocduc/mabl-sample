@@ -17,5 +17,5 @@ jobs:
           MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          application-id: <your-application-id-a>
-          environment-id: <your-environment-id-e>
+          application-id: O5ukpLPwa5vuS3c0l1GjRw-a
+          environment-id: v0k7A15ZXE6KbrKekTrbWQ-e
